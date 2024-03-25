@@ -9,6 +9,8 @@ import 'package:flutter_signin_button/flutter_signin_button.dart';
 import 'package:github_sign_in/github_sign_in.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:twitter_login/twitter_login.dart';
+import 'package:stripe_login/stripe_login.dart';
+import 'package:microsoft_login/microsoft_login.dart';
 
 typedef OAuthSignIn = void Function();
 
